@@ -1,1 +1,8 @@
-# happiness-ranking-app
+# Happiness Ranking
+
+
+
+## App
+
+### Framework:
+* Django
