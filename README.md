@@ -12,6 +12,8 @@ Since 2002, the World Happiness Report has used statistical analysis to determin
 
 ### Framework:
 * Django
+### Language: 
+* Python
 
 ## Resources
 https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world
