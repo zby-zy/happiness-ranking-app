@@ -10,9 +10,9 @@ Since 2002, the World Happiness Report has used statistical analysis to determin
 
 ## App
 
-### Framework:
+### Framework
 * Django
-### Language: 
+### Language
 * Python
 
 ## Resources
